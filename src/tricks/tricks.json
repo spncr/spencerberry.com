@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/trick.njk",
+  "tags": "tricks"
+}
