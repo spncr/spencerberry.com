@@ -15,7 +15,7 @@ layout: 'layouts/base.njk'
 Theodore is a retro modern aluminum yoyo. Only copper plated versions remain in stock.
 
 ## Specs
-* 6063 aluminum, copper plated 
+* 6061 aluminum, copper plated 
 * 38mm x 54.5mm
 * 69.5 grams
 * Nasty rubber shield C bearing, recessed to 3.6mm gap

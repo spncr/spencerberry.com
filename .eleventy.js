@@ -1,7 +1,6 @@
 module.exports = config => {
 
   config.addWatchTarget("./src/sass");
-  config.addPassthroughCopy("./src/css");
   config.addPassthroughCopy("./src/img");
   
   return {
