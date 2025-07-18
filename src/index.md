@@ -13,7 +13,7 @@ Thank you for the support!
   alt="Two Copper Theodore yoyos side by side, one is bright and clean, the other has a heavier patina with some darkening and finger prints." 
 />
 
-Theodore is a retro modern aluminum yoyo. Only copper plated versions remain in stock.
+Theodore is a retro modern aluminum yoyo. The copper plated versions have now sold out.
 
 ## Specs
 * 6061 aluminum, copper plated 
