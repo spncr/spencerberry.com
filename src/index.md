@@ -1,10 +1,11 @@
 ---
-title: "Webpage for Spencer Berry: human" 
+title: "Spencer Berry: human" 
 layout: 'layouts/base.njk'
 ---
 
-## Copper Theodore still available
-<small>Updated May 30, 2024</small>
+## Copper Theodore sold out!
+<small>Updated July 17, 2025</small>
+Thank you for the support!
 
 <img
   class="img-preview"
@@ -21,9 +22,3 @@ Theodore is a retro modern aluminum yoyo. Only copper plated versions remain in 
 * Nasty rubber shield C bearing, recessed to 3.6mm gap
 * Snow tires, a kitty fat string
 * $180 shipped (USD)
-
-<a
-  class="button"
-  href="https://checkout.square.site/merchant/9WN8JPKBEQRSQ/checkout/PNT2LLRDMRURZA6ZYQD3VHED">
-  Buy a copper Theodore
-</a>
